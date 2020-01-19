@@ -1,0 +1,140 @@
+/* Déclaration de la police */
+@font-face {
+    font-family: "Calculator";
+    src: url('fonts/Calculator.ttf');
+    }
+
+body
+{
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(grey, white);
+    font-family: Arial;
+    background-attachment: fixed;
+}
+
+#entete
+{
+    height: 25%;
+    background-image: url(files/bandeau-osthoffen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+
+
+nav
+{
+    height: 40px;
+    background: rgba(197, 200, 199, .6);
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right: 0;
+
+}
+
+nav ul
+{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav ul li
+{
+    float: left;
+    text-align: center;
+}
+
+nav a
+{
+    display: block;
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid transparent;
+    font-size: 18px;
+    margin-top: -5px;
+    padding-bottom: 5px;;
+}
+
+nav a:hover
+{
+    color: orange;
+    border-bottom: 2px solid gold;
+}
+
+#logo
+{
+    height: 80%;
+    background-image: url(files/logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#titre
+{
+    color: white;
+    float: right;
+    font-size: 200%;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.content
+{
+    display: flex;
+}
+
+article
+{
+    padding: 20px;
+    margin: 20px;
+}
+
+#intro
+{
+    width: 60%;
+}
+
+#infos
+{
+    width: 40%;
+    border-left: gray solid 3px;
+}
+
+#countdown
+{
+    font-family: Calculator;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+@media screen and (max-width: 900px) {
+    .content {
+      flex-direction: column;
+    }
+
+    #infos
+    {
+    width: 100%;
+    border-left: gray solid 0px;
+    border-top: gray solid 3px;
+    }   
+
+    article
+    {
+    padding-left: 0px;
+    margin: 0px;
+    }
+
+    #intro
+    {
+    width: 100%;
+    }
+  }
