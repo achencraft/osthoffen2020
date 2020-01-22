@@ -19,7 +19,7 @@ body
     background-image: url(files/bandeau-osthoffen.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center top;
     position: relative;
 
 }
@@ -115,9 +115,109 @@ article
     width: 100%;
 }
 
-@media screen and (max-width: 900px) {
+.candidat
+  {
+    display: flex; 
+    margin: auto;
+    width: 80%;   
+    margin-top: 10%;
+  }
+
+
+
+
+  #content_candidat
+  {
+    margin:50px;
+  }
+
+  .photo_candidat
+  {
+    width: 40%;
+    text-align: center;
+  }
+
+  .presentation_candidat
+  {
+    width: 60%;
+  }
+
+  .presentation_candidat_left
+  {
+      display: none;
+  }
+
+
+
+
+
+  #module_programme
+  {
+      width: 80%;
+      background: linear-gradient(grey, white);
+      margin: auto;
+      position: relative;
+  }
+
+  #selection_categorie
+  {
+      width: 20%;
+      overflow-wrap: normal;
+  }
+
+  #affichage_categorie
+  {
+        width: 80%;
+        overflow-wrap: normal;
+        border: solid black 1px;
+        border-left: none;
+        position: absolute;
+        left: 20%;
+        height: 100%;
+  }
+
+  .bouton_cat
+  {
+      border: solid black 1px;
+      min-height: 65px;
+      vertical-align: middle;
+      display: table;
+      width: 100%;
+  }
+
+  .bouton_cat_selected
+  {
+      border-right: none;
+  }
+
+  .bouton_text
+  {
+    vertical-align: middle;
+    display: table-cell;
+  }
+
+  .contenu_cat
+  {
+      display: none;
+      padding: 5%;
+  }
+
+  .contenu_cat_selected
+  {
+      display: block;
+  }
+
+  
+
+  
+  @media screen and (max-width: 900px) {
     .content {
       flex-direction: column;
+    }
+
+    .candidat {
+        flex-direction: column;
+        width: 100%;
     }
 
     #infos
@@ -136,5 +236,49 @@ article
     #intro
     {
     width: 100%;
+    }
+
+    .photo_candidat
+    {
+        width: 100%;
+    }
+
+    .presentation_candidat
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+
+    #content_candidat
+    {
+        margin:10px;
+    }
+
+    .presentation_candidat_left
+    {
+        display: block;
+    }
+
+    .presentation_candidat_right
+    {
+        display: none;
+    }
+
+    #selection_categorie
+    {
+        display: none;
+        
+    }
+
+    #affichage_categorie
+    {
+        width: 100%;
+        left: 0px
+    }
+
+    .contenu_cat
+    {
+        display: block;
     }
   }

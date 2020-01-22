@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
     <head>
         <title>Osthoffen 2020</title>
         <meta charset="UTF-8">
@@ -25,7 +25,20 @@
             <h1>Osthoffen 2020, bien vivre ensemble</h1>
 
             <p>
-            Lorem Elsass ipsum Carola blottkopf, Richard Schirmeck eget mollis amet Gal ! tristique elementum so Strasbourg Salu bissame nullam dolor rossbolla merci vielmols kuglopf in,  nüdle dignissim libero, hoplageiss schnaps ornare lacus messti de Bischheim Racing. hopla suspendisse hopla Morbi météor id adipiscing Oberschaeffolsheim Miss Dahlias chambon dui barapli wie porta leo quam, purus kougelhopf non Oberschaeffolsheim wurscht libero. Wurschtsalad sagittis Huguette ullamcorper consectetur schpeck Christkindelsmärik placerat non vulputate turpis, Coopé de Truchtersheim salu lotto-owe tellus ac mamsell condimentum Chulia Roberstau geht's quam. ac risus, Kabinetpapier Spätzle tellus Mauris bissame leo commodo réchime Heineken knepfle Salut bisamme amet, ornare sed rhoncus mänele gewurztraminer ftomi! Gal. Pellentesque baeckeoffe Verdammi tchao bissame s'guelt senectus und libero, jetz gehts los varius munster leverwurscht aliquam semper eleifend habitant sit flammekueche auctor, gravida elit vielmols, sed sit ante DNA, Yo dû. Hans sit knack rucksack ch'ai id, geïz morbi hopla bredele picon bière Chulien hopla kartoffelsalad pellentesque et amet hop Pfourtz ! yeuh. turpis gal schneck
+
+            Madame, Monsieur,<br> 
+Vous allez choisir une équipe municipale pour les six années à venir.<br><br>
+Nous vous présentons une liste composée de 15 femmes et hommes qui vous proposent de leur faire confiance et qui s’engagent pour un programme réaliste qui s’adaptera à votre commune avec des dépenses maîtrisées. <br><br>
+Nous nous retrouvons largement autour des valeurs humaines,  de justice, d’équité et de solidarité. Nous avons décidé de nous présenter à vos suffrages lors des prochaines élections communales.<br><br>
+L’action municipale que nous mènerons ensemble fera preuve de transparence, d’esprit d’équipe et d’ouverture. <br><br>
+<b>La transparence</b> : Dans notre commune, où nous sommes proches les uns des autres, chacune et chacun s’attend à être informé, consulté, écouté et respecté. La municipalité doit être en mesure d’expliquer les décisions qu’elle prend.  <br><br>
+<b>L’esprit d’équipe</b> : Afin d’agir efficacement, une commune se doit d’avoir un Maire et une équipe qui proposent, travaillent, impulsent et accompagnent les évolutions. <br>
+Nous mettrons en place des commissions, des groupes de travail et des comités consultatifs. Nous soutiendrons et consulterons  les associations sportives et culturelles. <br>
+Nous favoriserons les rencontres et le dialogue entre tous, quelles que soient les différences. C’est de cette richesse que naitront les nouveaux projets et les bonnes décisions. <br><br>
+<b>L’ouverture</b> : La commune œuvrera avec l’Eurométropole. C’est dans cet esprit d’ouverture que notre action puisera de nouvelles forces sans perdre pour autant son identité. <br>
+Les enjeux de cette consultation qui dépassent de loin <i>l’intérêt particulier, l’ambition personnelle ou le jeu politicien</i> sont nombreux et méritent des réponses adaptées et efficaces.  <br>
+
+
             </p>
 
 
@@ -39,8 +52,10 @@
                 <br>
                 (sera modifié quand la page fb sera ouverte)<br>
                 <hr>
-                <h3>Compte à rebours</h3>
+                <h3>Premier tour des élections</h3>
                 
+                Le premier tour des élections aura lieu le <br><center><b>Dimanche 15 Mars à partir de 8h00</b><br><br>
+                </center>
                 Temps restant avant le premier tour des élections municipales :
                 <div id="countdown"></div> 
             </article>
@@ -56,7 +71,7 @@
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Mar 15, 2020 00:00:00").getTime();
+var countDownDate = new Date("Mar 15, 2020 08:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
