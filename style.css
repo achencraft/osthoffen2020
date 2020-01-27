@@ -111,6 +111,12 @@ article
     border-left: gray solid 3px;
 }
 
+#photo_groupe
+{
+    width:50%;
+    margin:auto;
+}
+
 #countdown
 {
     font-family: Calculator;
@@ -169,6 +175,7 @@ article
     content: "";
     background: url(files/village.jpg);
     background-size: cover;
+    background-position: top;
     opacity: 0.5;
     top: 0;
     left: 0;
@@ -236,6 +243,7 @@ article
   {
       display: none;
       padding: 5%;
+      padding-top: 2%;
   }
 
   .contenu_cat_selected
@@ -331,5 +339,10 @@ article
     #contact
     {
         width: 100%;
+    }
+
+    #photo_groupe
+    {
+        width:100%
     }
   }

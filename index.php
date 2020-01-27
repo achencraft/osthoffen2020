@@ -59,6 +59,7 @@ Les enjeux de cette consultation qui dépassent de loin <i>l’intérêt particu
                 </center>
                 Votez pour nous dans :
                 <div id="countdown"></div> 
+                <br><br>
             </article>
 
             
@@ -66,8 +67,10 @@ Les enjeux de cette consultation qui dépassent de loin <i>l’intérêt particu
 
         </div>
 
-        <div style="text-align:center">
-        <img width="50%" src="files/groupe.jpg">
+        <div style="text-align:center" id="photo_groupe">
+        <a href="files/groupe.jpg">
+        <img width="100%" src="files/groupe.jpg">
+        </a>
         </div>
 
     </body>
