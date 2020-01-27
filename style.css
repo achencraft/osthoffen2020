@@ -8,15 +8,18 @@ body
 {
     margin: 0;
     height: 100vh;
-    background: linear-gradient(grey, white);
+    background-color: #7fb3d5;
     font-family: Arial;
     background-attachment: fixed;
+    /*background-image: linear-gradient( 111.4deg,  rgba(122,192,233,1) , rgba(4,161,255,1) );*/
+    font-size:20px;
 }
 
 #entete
 {
     height: 25%;
-    background-image: url(files/bandeau-osthoffen.jpg);
+    /*background-image: url(files/bandeau-osthoffen.jpg);*/
+    background-image: url(files/osthoffen.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -28,7 +31,7 @@ body
 nav
 {
     height: 40px;
-    background: rgba(197, 200, 199, .6);
+    background: rgba(197, 200, 199, .7);
     position: absolute;
     bottom: 0;
     left:0;
@@ -79,10 +82,11 @@ nav a:hover
     float: right;
     font-size: 200%;
     position: absolute;
-    left: 50%;
+    left: 40%;
     top: 10%;
     letter-spacing: 3px;
     text-align: center;
+    width: 30%;
 }
 
 .content
@@ -153,24 +157,40 @@ article
 
   #module_programme
   {
-      width: 80%;
-      background: linear-gradient(grey, white);
+      width: 90%;
+      /*background-color: #93947C;*/
       margin: auto;
       position: relative;
+      padding: 1%;
+      border-radius: 10px;
+  }
+
+  #module_programme::after {
+    content: "";
+    background: url(files/village.jpg);
+    background-size: cover;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
   }
 
   #selection_categorie
   {
       width: 20%;
       overflow-wrap: normal;
+      
   }
 
   #affichage_categorie
   {
         width: 80%;
         overflow-wrap: normal;
-        border: solid black 1px;
-        border-left: none;
+        /*border: solid black 1px;
+        border-left: none;*/
         position: absolute;
         left: 20%;
         height: 100%;
@@ -178,16 +198,32 @@ article
 
   .bouton_cat
   {
-      border: solid black 1px;
-      min-height: 65px;
+      border: solid gray 1px;
+      height: 65px;
       vertical-align: middle;
       display: table;
       width: 100%;
+      cursor: pointer;
+      border-radius: 10px;
+      margin-bottom: 5px;
+      text-align: center;      
+      background-color: rgb(190, 188, 188);
+    color:black;
+  }
+
+  .bouton_cat:hover
+  {
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    /*color:white;
+    text-decoration: underline;*/
+        
   }
 
   .bouton_cat_selected
   {
-      border-right: none;
+      width: 110%;
+      
   }
 
   .bouton_text
@@ -208,7 +244,12 @@ article
   }
 
   
-
+  #contact
+  {
+    width:30%;
+    margin:auto;
+    font-size:20px;
+  }
   
   @media screen and (max-width: 900px) {
     .content {
@@ -227,9 +268,14 @@ article
     border-top: gray solid 3px;
     }   
 
+    #titre
+    {
+        width:50%
+    }
+
     article
     {
-    padding-left: 0px;
+    padding: 0px;
     margin: 0px;
     }
 
@@ -280,5 +326,10 @@ article
     .contenu_cat
     {
         display: block;
+    }
+
+    #contact
+    {
+        width: 100%;
     }
   }

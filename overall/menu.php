@@ -2,7 +2,9 @@
 
 <div id="entete">
 
-    <div id="titre">Osthoffen 2020</div>    
+    <div id="titre">
+        <img style="width:100%" src="../files/titre.png">
+    </div>    
 
     <div id="logo"></div>
 

@@ -57,7 +57,7 @@
 
             </div>
             <div class="contenu_cat" id="contenu_cat_3">
-            <h2>S'occuper de nos ainés</h2>
+            <h2>S'occuper de nos aînés</h2>
                 Pour permettre une rencontre qui ne se fait pas aujourd’hui : 
                 <ul>
                 <li>Création d’une association pour les ainées :<br> Cette association permettra aux personnes à la retraite ou autre de se rencontrer et d’avoir des activités tels que des jeux de société, un café Kuchen, des échanges et des discussions.  </li>
@@ -70,7 +70,7 @@
             <h2>Gestion saine du patrimoine, accessibilité et visibilité de la mairie </h2>
             <ul>
             <li>Recenser les biens propriétés de la commune et leurs utilités.</li>
-            <li>Mettre en conformité la mairie, notamment pour l’accessibilité handicapée obligatoire. </li>
+            <li>Mettre en conformité la mairie, notamment pour l’accessibilité handicapés obligatoire. </li>
             <li>Travailler sur le regroupement et l’aménagement de l’école.</li>
             <li>Avoir une mairie visible par tous. </li>
                 </ul>
@@ -82,7 +82,7 @@
             <ul>
             <li>En assurant une information de qualité. 
             <li>S’assurer de la réception des informations par les habitants.
-            <li>Possibilité de dépôt d’idées en mairie et recueille des avis des habitants sur les projets municipaux.
+            <li>Possibilité de dépôt d’idées en mairie et recueil des avis des habitants sur les projets municipaux.
             <li>En accompagnant les initiatives locales.  
 
                 </ul>
@@ -109,7 +109,7 @@
             <div id="selection_categorie">
             <div onclick="afficher_cat(1)" class="bouton_cat bouton_cat_selected" id="bouton_cat_1"><div class="bouton_text">Sécurité et circulation dans le village</div></div>
             <div onclick="afficher_cat(2)"class="bouton_cat" id="bouton_cat_2"><div class="bouton_text">Dynamisme, animation et jeunesse</div></div>
-            <div onclick="afficher_cat(3)"class="bouton_cat" id="bouton_cat_3"><div class="bouton_text">S'occuper de nos ainés</div></div>
+            <div onclick="afficher_cat(3)"class="bouton_cat" id="bouton_cat_3"><div class="bouton_text">S'occuper de nos aînés</div></div>
             <div onclick="afficher_cat(4)"class="bouton_cat" id="bouton_cat_4"><div class="bouton_text">Gestion saine du patrimoine, accessibilité et visibilité de la mairie</div></div>
             <div onclick="afficher_cat(5)"class="bouton_cat" id="bouton_cat_5"><div class="bouton_text">Communiquer en misant sur l'information et en favorisant l'échange</div></div>
             <div onclick="afficher_cat(6)"class="bouton_cat" id="bouton_cat_6"><div class="bouton_text">Ecologie</div></div>

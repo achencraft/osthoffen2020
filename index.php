@@ -24,6 +24,7 @@
                 
             <h1>Osthoffen 2020, bien vivre ensemble</h1>
 
+            
             <p>
 
             Madame, Monsieur,<br> 
@@ -56,12 +57,18 @@ Les enjeux de cette consultation qui dépassent de loin <i>l’intérêt particu
                 
                 Le premier tour des élections aura lieu le <br><center><b>Dimanche 15 Mars à partir de 8h00</b><br><br>
                 </center>
-                Temps restant avant le premier tour des élections municipales :
+                Votez pour nous dans :
                 <div id="countdown"></div> 
             </article>
 
+            
+
+
         </div>
-        
+
+        <div style="text-align:center">
+        <img width="50%" src="files/groupe.jpg">
+        </div>
 
     </body>
 </html>
@@ -99,3 +106,9 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
+
+<div style="display:none">
+<div id="sfcyapkwuf5fyl3188pdujqjw67hq2bbppr"></div>
+<script type="text/javascript" src="https://counter2.wheredoyoucomefrom.ovh/private/counter.js?c=yapkwuf5fyl3188pdujqjw67hq2bbppr&down=async" async></script>
+<br><a href="https://www.assoclub.fr">inscription association en ligne</a><noscript><a href="https://www.compteurdevisite.com" title="compteur site"><img src="https://counter2.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=yapkwuf5fyl3188pdujqjw67hq2bbppr" border="0" title="compteur site" alt="compteur site"></a></noscript>
+</div>

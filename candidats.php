@@ -39,7 +39,7 @@
                 
 
                 <div class="photo_candidat">
-                    <img  style="border-radius: 100%;" src="files/candidats/<?php echo $row['PHOTO'] ?>">
+                    <img  style="border-radius: 100%; width:250px; height:250px" src="files/candidats/<?php echo $row['PHOTO'] ?>">
                 </div>
 
                 <div class="presentation_candidat">                
@@ -71,7 +71,7 @@
 
 
                 <div class="photo_candidat">
-                    <img  style="border-radius: 100%;" src="files/candidats/<?php echo $row['PHOTO'] ?>">
+                    <img  style="border-radius: 100%;width:250px; height:250px" src="files/candidats/<?php echo $row['PHOTO'] ?>">
                 </div>
 
                 <div class="presentation_candidat presentation_candidat_left">                
