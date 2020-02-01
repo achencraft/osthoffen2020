@@ -31,8 +31,8 @@
             <div class="contenu_cat contenu_cat_selected" id="contenu_cat_1">
                 <h2>Sécurité et circulation dans le village</h2>
                 <ul>
-                <li>Trouver des solutions cohérentes pour réduire la vitesse et notamment cibler les entrées de l’agglomération. </li>
-                <li>Revoir le plan de circulation dans le centre du village, mise en place d’un rond-point ou d’une petite place au niveau de la mairie et de l’école afin d’accentuer la visibilité par un aménagement urbain agréable et surtout sécurisé.</li>
+                <li>Trouver des solutions cohérentes pour réduire la vitesse et notamment cibler les entrées de l’agglomération </li>
+                <li>Revoir le plan de circulation dans le centre du village afin d’accentuer la visibilité par un aménagement urbain agréable et surtout sécurisé</li>
                 <li>Trouver des solutions aux problèmes de stationnement</li>
                 </ul>
                 La sécurité est la première des conditions pour assurer la liberté et la tranquillité publique. 
@@ -42,16 +42,16 @@
                 <h2>Dynamisme, animation et jeunesse</h2>
                 Permettre aux habitants de s’investir dans la vie communale et de bénéficier de diverses activités :
                 <ul>
-                <li>En encourageant et soutenant la vie associative, véritable lien social et reflet du dynamisme des habitants. </li>
+                <li>En encourageant et soutenant la vie associative, véritable lien social et reflet du dynamisme des habitants </li>
                 <li>Création d’une association de jeunes et d’un conseil municipal des jeunes</li>
                 <li>Mise en place d’un lieu de rencontre pour les jeunes</li>
                 </ul>
                 Création de manifestations annuelles :
                 <ul>
-                <li>Les vœux du maire </li>
-                <li>Commémorations </li>
+                <li>Les vœux du maire</li>
+                <li>Commémorations</li>
                 <li>Une animation annuelle telle qu’un marché aux puces ou autre…</li>
-                <li>Mise en place de cours informatique et de secourisme.</li>
+                <li>Mise en place de cours d'informatique et de secourisme</li>
                 </ul>
 
 
@@ -60,8 +60,8 @@
             <h2>S'occuper de nos aînés</h2>
                 Pour permettre une rencontre qui ne se fait pas aujourd’hui : 
                 <ul>
-                <li>Création d’une association pour les ainées :<br> Cette association permettra aux personnes à la retraite ou autre de se rencontrer et d’avoir des activités tels que des jeux de société, un café Kuchen, des échanges et des discussions.  </li>
-                <li>Mise en place d’un repas de Noël.</li>
+                <li>Création d’une association pour les ainées:<br>Cette association permettra aux personnes à la retraite ou autre de se rencontrer et d’avoir des activités tels que des jeux de société, un café Kuchen, des échanges et des discussions, des marches journalières  </li>
+                <li>Mise en place d’un repas de Noël</li>
                 </ul>
 
 
@@ -69,10 +69,9 @@
             <div class="contenu_cat" id="contenu_cat_4">
             <h2>Gestion saine du patrimoine, accessibilité et visibilité de la mairie </h2>
             <ul>
-            <li>Recenser les biens propriétés de la commune et leurs utilités.</li>
-            <li>Mettre en conformité la mairie, notamment pour l’accessibilité handicapés obligatoire. </li>
-            <li>Travailler sur le regroupement et l’aménagement de l’école.</li>
-            <li>Avoir une mairie visible par tous. </li>
+            <li>Recenser les biens de la commune et leurs utilités</li>
+            <li>Mettre en conformité la mairie pour la rendre accessible et visible de tous</li>
+            <li>Travailler sur l’aménagement de l’école</li>
                 </ul>
 
             </div>
@@ -95,9 +94,8 @@
             <ul>
             <li>Le village d’Osthoffen jouit d’un cadre privilégié, notamment avec le château, que nous devons préserver et mettre en valeur.
             <li>S’assurer d’un urbanisme maîtrisé. 
-            <li>Expliquer un peu la charte de l’AVA (Anne M.) 
-            <li>Mise en place d’un nettoyage de printemps, d’une collecte des sapins. 
-            <li>Nous mettrons tout en œuvre pour réaliser une piste cyclable.
+            <li>Mise en place d’un nettoyage de printemps et d’une collecte des sapins. 
+            <li>Mettre tout en œuvre pour réaliser une piste cyclable.
 
 
                 </ul>
