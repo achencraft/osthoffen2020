@@ -7,6 +7,7 @@
         <meta name="keywords" content="Osthoffen, elections, municipal, 2020, mairie">
         <meta name="author" content="Lucas LETT">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="files/logo.png" />
 
         <link rel="stylesheet" href="style.css">
     </head>
@@ -22,7 +23,7 @@
 
             <article id="intro">
                 
-            <h1>Osthoffen 2020, bien vivre ensemble</h1>
+            <h1 style="background-color:orange">Osthoffen 2020, <i>bien vivre ensemble</i></h1>
 
             
             <p>
@@ -32,11 +33,11 @@ Vous allez choisir une équipe municipale pour les six années à venir.<br><br>
 Nous vous présentons une liste composée de 15 femmes et hommes qui vous proposent de leur faire confiance et qui s’engagent pour un programme réaliste qui s’adaptera à votre commune avec des dépenses maîtrisées. <br><br>
 Nous nous retrouvons largement autour des valeurs humaines,  de justice, d’équité et de solidarité. Nous avons décidé de nous présenter à vos suffrages lors des prochaines élections communales.<br><br>
 L’action municipale que nous mènerons ensemble fera preuve de transparence, d’esprit d’équipe et d’ouverture. <br><br>
-<b>La transparence</b> : Dans notre commune, où nous sommes proches les uns des autres, chacune et chacun s’attend à être informé, consulté, écouté et respecté. La municipalité doit être en mesure d’expliquer les décisions qu’elle prend.  <br><br>
-<b>L’esprit d’équipe</b> : Afin d’agir efficacement, une commune se doit d’avoir un Maire et une équipe qui proposent, travaillent, impulsent et accompagnent les évolutions. <br>
-Nous mettrons en place des commissions, des groupes de travail et des comités consultatifs. Nous soutiendrons et consulterons  les associations sportives et culturelles. <br>
-Nous favoriserons les rencontres et le dialogue entre tous, quelles que soient les différences. C’est de cette richesse que naitront les nouveaux projets et les bonnes décisions. <br><br>
-<b>L’ouverture</b> : La commune œuvrera avec l’Eurométropole. C’est dans cet esprit d’ouverture que notre action puisera de nouvelles forces sans perdre pour autant son identité. <br>
+<b style="color:#FF8000">La transparence</b> : Dans notre commune, où nous sommes proches les uns des autres, chacune et chacun s’attend à être informé, consulté, écouté et respecté. La municipalité doit être en mesure d’expliquer les décisions qu’elle prend.  <br><br>
+<b style="color:#FF8000">L’esprit d’équipe</b> : Afin d’agir efficacement, une commune se doit d’avoir un Maire et une équipe qui proposent, travaillent, impulsent et accompagnent les évolutions. <br>
+Nous mettrons en place des commissions, des groupes de travail et des comités consultatifs. Nous soutiendrons et consulterons  les associations sportives, culturelles et de loisir. <br>
+Nous favoriserons les rencontres et le dialogue entre tous, quelles que soient les différences. C’est de cette richesse que naîtront les nouveaux projets et les bonnes décisions. <br><br>
+<b style="color:#FF8000">L’ouverture</b> : La commune œuvrera avec l’Eurométropole. C’est dans cet esprit d’ouverture que notre action puisera de nouvelles forces sans perdre pour autant son identité. <br><br>
 Les enjeux de cette consultation qui dépassent de loin <i>l’intérêt particulier, l’ambition personnelle ou le jeu politicien</i> sont nombreux et méritent des réponses adaptées et efficaces.  <br>
 
 
@@ -48,16 +49,16 @@ Les enjeux de cette consultation qui dépassent de loin <i>l’intérêt particu
             </article>
             
             <article id="infos">
-                <h3>Notre Page Facebook</h3>
-                <div class="fb-page" data-href="https://www.facebook.com/achencraft/" data-tabs="timeline" data-width="400" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
+                <h1 style="background-color:orange">Notre Page Facebook</h1>
+                <div class="fb-page" data-href="https://www.facebook.com/osthoffen2020/" data-tabs="timeline" data-width="400" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
                 <br>
-                (sera modifié quand la page fb sera ouverte)<br>
+                <br>
                 <hr>
-                <h3>Premier tour des élections</h3>
+                <h1 style="background-color:orange">Premier tour des élections</h1>
                 
                 Le premier tour des élections aura lieu le <br><center><b>Dimanche 15 Mars à partir de 8h00</b><br><br>
                 </center>
-                Votez pour nous dans :
+                <b style="color:#FF8000">Votez pour nous </b>dans :
                 <div id="countdown"></div> 
                 <br><br>
             </article>

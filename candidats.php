@@ -7,6 +7,7 @@
         <meta name="keywords" content="Osthoffen, elections, municipal, 2020, mairie">
         <meta name="author" content="Lucas LETT">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="files/logo.png" />
 
         <link rel="stylesheet" href="style.css">
     </head>
@@ -22,7 +23,7 @@
         <div id="content_candidat" style="display:block;">
 
       <center>
-        <h1>Nos candidats</h1>
+        <h1 style="background-color:orange">Nos candidats</h1>
     </center>
     
     <?php

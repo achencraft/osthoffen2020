@@ -7,6 +7,7 @@
         <meta name="keywords" content="Osthoffen, elections, municipal, 2020, mairie">
         <meta name="author" content="Lucas LETT">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="files/logo.png" />
 
         <link rel="stylesheet" href="style.css">
     </head>
@@ -24,16 +25,16 @@
         <div id="content_candidat" style="display:block;">
 
       <center>
-        <h1>Nous contacter</h1>
+        <h1 style="background-color:orange">Nous contacter</h1>
     
     
         <div id="contact">
-            Prenez contact avec nous par mail<br><br>
+            Pour toute question concernant notre programme, prenez contact avec nous par mail<br><br>
             <a href="mailto:osthoffen.2020@gmail.com">osthoffen.2020@gmail.com</a>
             <br>
             <hr>
             Ou via notre page Facebook<br><br>
-            <div class="fb-page" data-href="https://www.facebook.com/achencraft/" data-tabs="timeline" data-width="400" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
+            <div class="fb-page" data-href="https://www.facebook.com/osthoffen2020/" data-tabs="timeline" data-width="400" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
         </div>   
 
         </center>
