@@ -26,7 +26,7 @@
             <h1 style="background-color:orange">Osthoffen 2020, <i>bien vivre ensemble</i></h1>
 
             
-            <p>
+            <p style="    text-align: justify;">
 
             Madame, Monsieur,<br> 
 Vous allez choisir une équipe municipale pour les six années à venir.<br><br>
