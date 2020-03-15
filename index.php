@@ -58,8 +58,7 @@ Les enjeux de cette consultation qui dépassent de loin <i>l’intérêt particu
                 
                 Le premier tour des élections aura lieu le <br><center><b>Dimanche 15 Mars à partir de 8h00</b><br><br>
                 </center>
-                <b style="color:#FF8000">Votez pour nous </b>dans :
-                <div id="countdown"></div> 
+                <h3 style="color:#FF8000">Votez pour nous  !</h3> 
                 <br><br>
             </article>
 
